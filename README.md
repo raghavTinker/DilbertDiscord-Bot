@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://assets.servatom.com/dilbert-bot/banner.jpg" height="200px">
-<h3 align="center"> A bot to view Dilbert comics directly from discord and get updates of the comics automatically. </h3>
+<h3 align="center"> A bot to view Dilbert comics directly from Discord and get updates of the comics automatically. </h3>
 </p>
 <br>
 <br>
@@ -15,4 +15,4 @@
   To self-host the bot, read [SETUP.md](https://github.com/Servatom/dilbert-bot/blob/main/SETUP.md).
 <hr>
 
-### NOTE: The content generated is from [Dilbert comics](https://dilbert.com/)
+### NOTE: The content generated is from [Dilbert comics](https://dilbert.com/). This bot just scrapes the comics from the website
