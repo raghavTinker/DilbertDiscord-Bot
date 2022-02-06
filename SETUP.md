@@ -28,3 +28,7 @@ d) Now to run the container simply run:
 ```docker-compose up --build```
 
 e) Get the bot invite link from the discord developer platform and invite them to your desired servers!
+
+
+## To get exisiting published comics in your database
+a) Install ```requirements.txt``` and then run ```scraper.py```. It will scrape https://dilbert.com and get all the comics available
