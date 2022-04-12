@@ -13,7 +13,7 @@ def importComics():
 
     # new comic
     for comic in comics:
-        newComic = models.Comic(
+        newComic = models.Comics(
             title=comic['title'],
             description=comic['description'],
             image=comic['image'],
